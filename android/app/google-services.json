@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991590147944",
+    "project_id": "byzero1-308b9",
+    "storage_bucket": "byzero1-308b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991590147944:android:826244e15fc1f32a3098dd",
+        "android_client_info": {
+          "package_name": "com.byzeroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991590147944-jchj7j7tkd9tsadms83hqceulmaamk48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpU1QNejFYFuL5n_EsKo1gvorn94l_7no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991590147944-jchj7j7tkd9tsadms83hqceulmaamk48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
